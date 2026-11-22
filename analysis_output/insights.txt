@@ -1,0 +1,4 @@
+Analyzed 30 valid measured scenarios.
+Mean node reduction from Alpha-Beta: 81.15%.
+Alpha-Beta visited fewer nodes in 30 of 30 scenarios.
+Alpha-Beta was faster in 30 of 30 scenarios; timing can vary due to runtime noise.

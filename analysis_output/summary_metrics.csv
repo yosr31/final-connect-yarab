@@ -1,0 +1,11 @@
+metric,value
+scenarios,30.0
+mean_minimax_ms,355.74499593333337
+mean_alphabeta_ms,45.436925566666666
+median_minimax_nodes,1509.5
+median_alphabeta_nodes,205.0
+mean_nodes_reduced_pct,81.15225109703923
+median_nodes_reduced_pct,84.39224819687887
+mean_speedup_ratio,22.829351151699356
+minimax_wins_on_time,0.0
+alphabeta_wins_on_time,30.0
